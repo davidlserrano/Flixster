@@ -56,7 +56,7 @@ To be completed
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://i.imgur.com/dg2wb0d.gif" width=250><br>
 
 ### Notes
 I really enjoyed this project because it felt like a very simple introduction to APIs, how to access, and parse the information they provide. Prior to this project, and this week's lab, I never had the opportunity to get hands on experience with APIs. They always seemed a bit daunting to tackle on my own, but this project showed me they can be pretty easy to work with. Unfortunately I had limited time to work on this app this week, however I do intend on going back and fiddling around a bit more with what can be done with this API.
