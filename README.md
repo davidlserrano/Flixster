@@ -22,10 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="YOUR_GIF_URL_HERE" width=400><br>
 
 ### Notes
 To be completed
@@ -54,9 +51,7 @@ To be completed
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="https://i.imgur.com/dg2wb0d.gif" width=250><br>
+<img src="https://i.imgur.com/dg2wb0d.gif" width=400><br>
 
 ### Notes
 I really enjoyed this project because it felt like a very simple introduction to APIs, how to access, and parse the information they provide. Prior to this project, and this week's lab, I never had the opportunity to get hands on experience with APIs. They always seemed a bit daunting to tackle on my own, but this project showed me they can be pretty easy to work with. Unfortunately I had limited time to work on this app this week, however I do intend on going back and fiddling around a bit more with what can be done with this API.
