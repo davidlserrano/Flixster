@@ -23,6 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 <img src="https://i.imgur.com/h9rmSVg.gif" width=400><br>
+<a href="https://i.imgur.com/h9rmSVg.gif">GIF link if image does not work</a><br>
 
 ### Notes
 Only minor hiccup I ran into when attempting to implement automatically playing trailers is that it only starts to automatically play when I rotate the screen, as shown in the gif. Though I did try to fix this, I realized I preferred the way this worked out instead when taking into consideration the user's experience. Personally I dislike anything that automatically plays, however in this case starting the video when the phone is rotated makes sense as the user more than likely is setting the phone up to view the video in landscape mode.
